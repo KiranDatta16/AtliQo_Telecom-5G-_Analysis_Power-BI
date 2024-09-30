@@ -25,11 +25,17 @@ Imagine yourself as Peter Pandey and perform the following task:
 Dashboards:
 -----------------------------------------------------
 1.Total Revenue across all the citites, Monthly Revenue Trend Before and After implementing 5G and change % in the revenue.
+
 2.Average Revenue per user (ARPU) across all the cities, Monthly ARPU Trend before and after 5G and change % in the ARPU.
+
 3.Monthly Active Users (MAU)  across all the cities, MAU Trend before and after 5G and change % in the MAU.
+
 4.Monthly Unsubscribed Users (MUU) across all the cities, MUU Trend before and after 5G and change % in the MUU.
+
 5.Market Share % of all the companies.
+
 6.Revenue prospects of every Plan across all the cities.
+
 7.Top 5 and Bottom 5 cities with respect to Revenue, ARPU,MUAU,MUU.
 
 
