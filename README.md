@@ -41,8 +41,8 @@ Dashboards:
 
 Insights:
 ----------------------------------------------
-1. Revenue drop of 0.5% post 5G implementation.
-2. Average Revenue Per User (ARPU) increased by 11% post 5G implementation.
-3. 8% drop in Monthly Active Users and 25% increased Unsubscribed users after 5G introducation.
+1. Drop in Revenue by 0.5% post 5G implementation.
+2. Average Revenue Per User (ARPU) surged by 11% post 5G implementation.
+3. 8% drop in Monthly Active Users and 25% rise in  Unsubscribtions after 5G introducation.
 4. P1,P2,P11 are the top 3 revenue generating plans.
    
